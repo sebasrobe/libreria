@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\-Librer-a_lectores-main\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\PC\Desktop\-Librer-a_lectores-main\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\PC\Desktop\-Librer-a_lectores-main\capaDatos\obj\Debug\capaDatos.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\-Librer-a_lectores-main\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\-Librer-a_lectores-main\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\PC\Desktop\-Librer-a_lectores-main\capaDatos\obj\Debug\capaDatos.pdb

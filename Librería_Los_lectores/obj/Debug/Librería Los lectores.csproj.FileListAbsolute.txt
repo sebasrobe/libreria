@@ -1,0 +1,5 @@
+C:\Users\PC\Desktop\-Librer-a_lectores-main\Librería Los lectores\obj\Debug\Librería Los lectores.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\-Librer-a_lectores-main\Librería Los lectores\obj\Debug\Librería_Los_lectores.Properties.Resources.resources
+C:\Users\PC\Desktop\-Librer-a_lectores-main\Librería Los lectores\obj\Debug\Librería Los lectores.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\-Librer-a_lectores-main\Librería Los lectores\obj\Debug\Librería Los lectores.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\-Librer-a_lectores-main\Librería Los lectores\obj\Debug\Librería_Los_lectores.Form1.resources
